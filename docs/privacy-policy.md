@@ -15,6 +15,7 @@ The app accesses your device's location solely to provide the geocaching functio
 - Your location is used only to show your position on the map and detect nearby geocaches.
 - Location data stays entirely on your device and is never transmitted anywhere.
 - You can revoke location permissions at any time in your device settings.
+- When viewing the map online, the coordinates of the displayed map area are transmitted to CARTO's servers to load map tiles. As with any internet request, your device's IP address is also transmitted.
 
 ## Local Storage Only
 
@@ -28,7 +29,7 @@ CARTO's privacy policy can be found at: [https://carto.com/privacy](https://cart
 
 ## Your Control
 
-You have full control over your data. Delete all app data by clearing the app's storage or uninstalling. After downloading offline maps once, you can use the app without any further network connections.
+You have full control over your data. Delete all app data by clearing the app's storage or uninstalling. Use offline maps to prevent any location-related data from being transmitted to external servers. After downloading offline maps once, you can use the app completely offline with no network connections. Note: External links in the app (e.g., to references in geocache descriptions) still require an internet connection.
 
 ## About This Project
 
