@@ -1,6 +1,8 @@
-# Datenschutz
+# Datenschutzerklärung für GeoChronicles
 
 [English Version / Englische Version](privacy-policy.md)
+
+**Entwickler:** GeoChronicles
 
 **Zuletzt aktualisiert: 2026-01-24**
 
