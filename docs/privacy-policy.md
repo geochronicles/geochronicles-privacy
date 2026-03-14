@@ -1,6 +1,8 @@
-# Privacy Policy
+# Privacy Policy for GeoChronicles
 
 [Deutsche Version / German Version](privacy-policy-de.md)
+
+**Developer:** GeoChronicles
 
 **Last Updated: 2026-01-24**
 
