@@ -15,6 +15,7 @@ Die App greift auf den Standort Ihres Geräts ausschließlich für die Geocachin
 - Ihr Standort wird nur verwendet, um Ihre Position auf der Karte anzuzeigen und nahegelegene Geocaches zu erkennen.
 - Standortdaten verbleiben vollständig auf Ihrem Gerät und werden nirgendwohin übertragen.
 - Sie können die Standortberechtigungen jederzeit in Ihren Geräteeinstellungen widerrufen.
+- Bei der Online-Kartennutzung werden die Koordinaten des angezeigten Kartenausschnitts an die Server von CARTO übertragen, um Kartenkacheln zu laden. Wie bei jeder Internetanfrage wird dabei auch die IP-Adresse Ihres Geräts übermittelt.
 
 ## Nur lokale Speicherung
 
@@ -28,7 +29,7 @@ Die Datenschutzerklärung von CARTO finden Sie unter: [https://carto.com/privacy
 
 ## Ihre Kontrolle
 
-Sie haben die volle Kontrolle über Ihre Daten. Löschen Sie alle App-Daten durch Leeren des App-Speichers oder Deinstallation. Nach dem einmaligen Herunterladen der Offline-Karten können Sie die App ohne weitere Netzwerkverbindungen nutzen.
+Sie haben die volle Kontrolle über Ihre Daten. Löschen Sie alle App-Daten durch Leeren des App-Speichers oder Deinstallation. Nutzen Sie Offline-Karten, um zu verhindern, dass standortbezogene Daten an externe Server übertragen werden. Nach dem einmaligen Herunterladen der Offline-Karten können Sie die App vollständig offline ohne Netzwerkverbindungen nutzen. Hinweis: Externe Links in der App (z.B. zu Quellenangaben in Geocache-Beschreibungen) erfordern weiterhin eine Internetverbindung.
 
 ## Über dieses Projekt
 
